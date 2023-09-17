@@ -12,6 +12,8 @@
 [top 100 soft](https://www.snapfiles.com/topdownloads/)
 [tools](https://www.majorgeeks.com/mg/sortdate/proxy.html)
 [free windows](https://win.softpedia.com/)
+[免费软件](https://freesoft-concierge.com/)
+[软天线](https://softantenna.com/)
 ## 音乐
 [无损音乐](https://www.dtshot.com/)
 [不同音调伴奏](https://x-minus.pro/)
