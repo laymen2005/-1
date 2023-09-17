@@ -85,4 +85,8 @@
 [腾讯微云](https://www.weiyun.com/)
 [tele机器人](https://www.ff98sha.me/archives/147)
 [接码](https://online-sms.org/zh/free-phone-number-17272876669)
+[电视直播](https://woniuzfb.com/)
+## 教程
+[TG注册](https://mailberry.com.cn/2023/06/start-from-scratch-register-tg-account/#:~:text=%E5%9C%A8%E5%AF%BC%E8%88%AA%E6%89%BE%E5%88%B0%E5%87%86%E5%A4%87%E5%A5%BD%E7%9A%84%E8%B4%A6%E5%8F%B7%EF%BC%8C%E9%80%89%E6%8B%A9%E2%80%9CTelegram%E2%80%9D%2C%E8%B4%AD%E4%B9%B0%20%E8%B4%AD%E4%B9%B0%E5%90%8E%E4%BC%9A%E5%BE%97%E5%88%B0%E4%B8%80%E4%B8%AA%E8%B4%A6%E5%8F%B7%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80,%E4%B8%8B%E8%BD%BD%E5%90%8E%EF%BC%8C%E8%A7%A3%E5%8E%8B%E6%8A%8A%E8%B5%84%E6%96%99%E6%94%BE%E5%88%B0Telegram%20Desktop%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95%EF%BC%8C%E5%86%8D%E8%BF%90%E8%A1%8C%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86)
+[解决Bing访问](https://www.yitoujing.com/article/21)
 []()
