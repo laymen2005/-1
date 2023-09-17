@@ -38,6 +38,7 @@
 [独角兽](https://91unicorn.net/#/register?code=uwdykHja)
 [emo](https://yyds.emovpn.top/#/plan/59)
 [极速云](https://www.xn--9kqu12djx2a.me/#/register?code=Dyia9ZHi)
+[免费](https://sites.google.com/view/honven/%E9%A6%96%E9%A1%B5/%E5%85%8D%E8%B4%B9%E5%85%AC%E7%9B%8A%E6%9C%BA%E5%9C%BAvpn%E6%8E%A8%E8%8D%90)
 ## 常用
 [微博地图](http://place.weibo.com/)
 []()
@@ -45,7 +46,11 @@
 ## AI
 [AI工具集导航](https://ai-bot.cn/)
 [leonardoai](https://app.leonardo.ai/)
+[OPENAI](https://chat.openai.com/)
 []()
+[]()
+[]()
+
 ## 短网址
 [tinyl](https://tinyl.io/home.html)
 [urlc](https://www.urlc.cn/user/login)
@@ -93,7 +98,8 @@
 [免费接码](https://smsreceivefree.com/)
 [收费接码](https://sms-activate.org/cn/profile)
 [个人数据泄露检测](https://privacy.aiuys.com/)
-
+[图像编辑](https://www.iloveimg.com/zh-cn)
+[youtube下载](https://youtubemultidownloader.net/playlists.html)
 ## 教程
 [TG注册](https://mailberry.com.cn/2023/06/start-from-scratch-register-tg-account/#:~:text=%E5%9C%A8%E5%AF%BC%E8%88%AA%E6%89%BE%E5%88%B0%E5%87%86%E5%A4%87%E5%A5%BD%E7%9A%84%E8%B4%A6%E5%8F%B7%EF%BC%8C%E9%80%89%E6%8B%A9%E2%80%9CTelegram%E2%80%9D%2C%E8%B4%AD%E4%B9%B0%20%E8%B4%AD%E4%B9%B0%E5%90%8E%E4%BC%9A%E5%BE%97%E5%88%B0%E4%B8%80%E4%B8%AA%E8%B4%A6%E5%8F%B7%E8%B5%84%E6%96%99%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80,%E4%B8%8B%E8%BD%BD%E5%90%8E%EF%BC%8C%E8%A7%A3%E5%8E%8B%E6%8A%8A%E8%B5%84%E6%96%99%E6%94%BE%E5%88%B0Telegram%20Desktop%E5%AE%89%E8%A3%85%E7%9B%AE%E5%BD%95%EF%BC%8C%E5%86%8D%E8%BF%90%E8%A1%8C%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BA%86)
 [解决Bing访问](https://www.yitoujing.com/article/21)
