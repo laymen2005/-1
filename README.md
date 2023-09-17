@@ -18,8 +18,8 @@
 ## 音乐
 [无损音乐](https://www.dtshot.com/)
 [不同音调伴奏](https://x-minus.pro/)
-[]()
-[]()
+[freemusicarchive](https://freemusicarchive.org/search/?quicksearch=background)
+[chosic](https://www.chosic.com/free-music/motivational/)
 []()
 []()
 []()
