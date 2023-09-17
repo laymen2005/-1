@@ -15,6 +15,10 @@
 [免费软件](https://freesoft-concierge.com/)
 [软天线](https://softantenna.com/)
 [免费软件2](https://all-freesoft.net/)
+[纸艺](https://paperm.jp/template/template.asp?code=vc_spcar&link=202001rank)
+[佳能park](https://creativepark.canon/sc/index.html)
+[儿童折纸](https://www.firstpalette.com/)
+
 ## 音乐
 [无损音乐](https://www.dtshot.com/)
 [不同音调伴奏](https://x-minus.pro/)
@@ -27,7 +31,7 @@
 []()
 []()
 ## 机场
-[]()
+[破晓云](https://v.poxiaoyun.com/#/register?code=3arSQKcv)
 []()
 []()
 []()
@@ -42,5 +46,18 @@
 ## 短网址
 [tinyl](https://tinyl.io/home.html)
 [urlc](https://www.urlc.cn/user/login)
+[]()
+[]()
+## 公益
+[就是教不落](https://steachs.com/)
+[电脑不求人](https://www.minwt.com/categories/pc/)
+[软体玩家](https://pcrookie.com/)
+[模范城市](https://template.city/)
+[关键应用](https://key.chtouch.com/)
+[]()
+[]()
+[]()
+[]()
+[]()
 []()
 []()
