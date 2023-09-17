@@ -33,8 +33,8 @@
 []()
 ## 机场
 [破晓云](https://v.poxiaoyun.com/#/register?code=3arSQKcv)
-[]()
-[]()
+[旁路](https://bypassgo.com/#/dashboard)
+[独角兽](https://91unicorn.net/#/register?code=uwdykHja)
 []()
 ## 常用
 [微博地图](http://place.weibo.com/)
@@ -42,7 +42,7 @@
 []()
 ## AI
 [AI工具集导航](https://ai-bot.cn/)
-[]()
+[leonardoai](https://app.leonardo.ai/)
 []()
 ## 短网址
 [tinyl](https://tinyl.io/home.html)
