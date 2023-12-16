@@ -41,8 +41,8 @@
 [免费](https://sites.google.com/view/honven/%E9%A6%96%E9%A1%B5/%E5%85%8D%E8%B4%B9%E5%85%AC%E7%9B%8A%E6%9C%BA%E5%9C%BAvpn%E6%8E%A8%E8%8D%90)
 ## 常用
 [微博地图](http://place.weibo.com/)
-[]()
-[]()
+[MEGA网盘](https://mega.nz/fm/cz0UEQzD)
+[MEDIAFIRE网盘](https://app.mediafire.com/myfiles)
 ## AI
 [AI工具集导航](https://ai-bot.cn/)
 [leonardoai](https://app.leonardo.ai/)
