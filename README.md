@@ -72,7 +72,7 @@
 ## 软件
 [OFFICE2021](https://www.cnblogs.com/hushaojun/p/15967885.html)
 [windows软件](https://briian.com/category/windows/)
-[]()
+[WPS](https://zhuanlan.zhihu.com/p/631928367)
 []()
 []()
 []()
